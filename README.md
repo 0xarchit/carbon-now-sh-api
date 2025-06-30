@@ -2,6 +2,8 @@
 
 A FastAPI service that generates beautiful code images using Carbon.now.sh. Convert your code into shareable JPG images with customizable styling.
 
+> If you use or like anything in this repo then Give this repo a star please 🌟
+
 ## Features
 
 - 🖼️ Generate high-quality code images in JPG format
